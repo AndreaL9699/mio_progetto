@@ -1,1 +1,2 @@
-"questo � il primo file committato" 
+"questo Š il primo file committato" 
+"questa è la prima modifica"
